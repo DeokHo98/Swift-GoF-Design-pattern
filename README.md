@@ -8,11 +8,40 @@
 
 ## 생성패턴 
 객체 생성 매커니즘을 다루는 패턴을 말한다.    
-    
+생성패턴의 종류는 다음과 같다.     
+- 싱글톤 (Singleton)    
+- 팩토리 메소드 (Factory Method)    
+- 추상 팩토리 (Abstract Factory)   
+- 빌더 (Builder)    
+- 프로토타입 (Prototype)   
+     
 ## 구조 패턴
 클래스와 객체를 더 큰 구조로 조합하는 방법을 다룬다.      
-
+구조패턴의 종류는 다음과 같다.     
+- 어댑터 (Adapter)    
+- 브리지 (Bridge)    
+- 컴포지트 (Composite)    
+- 데코레이터 (Decorator)    
+- 퍼사드 (Facade)    
+- 플라이웨이트 (Flyweight)    
+- 프록시 (Proxy)
+     
 ## 행동 패턴
 객체 간의 상호작용과 책임 분배를 다룬다.     
+행동패턴의 종류는 다음과 같다.     
+- 책임 연쇄 (Chain of Responsibility)    
+- 커맨드 (Command)     
+- 인터프리터 (Interpreter)    
+- 반복자 (Iterator)    
+- 중재자 (Mediator)    
+- 메멘토 (Memento)     
+- 옵저버 (Observer)     
+- 상태 (State)     
+- 전략 (Strategy)     
+- 템플릿 메소드 (Template Method)     
+- 비지터 (Visitor)
+
+이렇게 총 23가지가 Gang of Four (GoF) 4명의 저자가가 정의한 23가지 디자인 패턴 이다.
+
 
 
